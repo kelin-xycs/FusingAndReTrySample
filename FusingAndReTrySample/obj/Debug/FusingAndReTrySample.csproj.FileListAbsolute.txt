@@ -1,0 +1,6 @@
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\bin\Debug\FusingAndReTrySample.exe.config
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\bin\Debug\FusingAndReTrySample.exe
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\bin\Debug\FusingAndReTrySample.pdb
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\obj\Debug\FusingAndReTrySample.exe
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\obj\Debug\FusingAndReTrySample.pdb
+D:\老郭\一些研究\FusingAndReTrySample\FusingAndReTrySample\obj\Debug\FusingAndReTrySample.csprojResolveAssemblyReference.cache
